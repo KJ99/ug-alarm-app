@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">ClockAlarm</string>
+    <string name="app_title">Clock App</string>
+    <string name="title_placeholder">Title</string>
+    <string name="create_alarm_title">Create a new alarm</string>
+    <string name="update_alarm_title">Edit the alarm</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_empty_error">Title cannot be empty</string>
+    <string name="insert_success_message">Alarm was successfully scheduled</string>
+    <string name="insert_fail_message">Failed to schedule the alarm</string>
+    <string name="update_success_message">Alarm was successfully updated</string>
+    <string name="update_fail_message">Failed to update the alarm</string>
+    <string name="alarms_fetch_error">Could not get the alarms list</string>
+    <string name="delete_success_message">Alarm was successfully deleted</string>
+    <string name="delete_fail_message">Failed to delete the alarm</string>
+    <string name="default_alarm_title">Wake up!</string>
+    <string name="delete">Delete</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="snooze">Snooze</string>
+    <string name="app_logo">App logo</string>
+</resources>
