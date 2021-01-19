@@ -20,6 +20,8 @@ dzięki czemu alarm zostanie uruchomiony nawet jeśli aplikacja nie jest uruchom
 ![screenshot](https://github.com/KJ99/ug-alarm-app/blob/master/screenshots/5.png)
 ### Widok uruchomionego alarmu i ustawienie drzemki
 ![screenshot](https://github.com/KJ99/ug-alarm-app/blob/master/screenshots/6.png)
+
 ![screenshot](https://github.com/KJ99/ug-alarm-app/blob/master/screenshots/7.png)
+
 ![screenshot](https://github.com/KJ99/ug-alarm-app/blob/master/screenshots/8.png)
 
